@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><Database>{'host': 'new_host_value', 'port': '3306'}<host>new_host_value</host><port>3306</port></Database><Database>{'host': 'new_host_value', 'port': '3306'}<host>new_host_value</host><port>3306</port></Database></root>

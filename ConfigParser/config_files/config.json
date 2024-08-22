@@ -1,0 +1,6 @@
+{
+    "Database": {
+        "host": "new_host_value",
+        "port": 3306
+    }
+}
